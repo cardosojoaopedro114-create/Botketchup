@@ -1,0 +1,17 @@
+{
+  "name": "grok-helper-bot",
+  "version": "1.0.0",
+  "description": "Um bot Discord com inteligência artificial para ajudar com dúvidas, código Lua, e que pode ser ativado/desativado pelo proprietário.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.13.0",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
+  }
+}
